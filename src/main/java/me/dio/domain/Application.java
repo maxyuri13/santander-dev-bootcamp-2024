@@ -1,4 +1,4 @@
-package me.dio.santander_dev_bootcamp_2024;
+package me.dio.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
